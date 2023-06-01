@@ -1,0 +1,10 @@
+pandas
+seaborn
+torch
+torchvision
+numpy
+scikit-learn
+matplotlib
+pillow
+hdbscan
+scikit-image
